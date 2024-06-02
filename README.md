@@ -1,4 +1,4 @@
-#Zomato Sales Insights Dashboard
+# Zomato Sales Insights Dashboard
 Welcome to the Zomato Sales Insights Dashboard project! This dashboard provides comprehensive insights into Zomato delivery data, allowing users to analyze sales performance, profitability, and customer preferences.
 
 #Table of Contents
